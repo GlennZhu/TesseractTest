@@ -1,2 +1,2 @@
--g -e stretch -f 25 -o 10 -u -s 1 -T -p 10
+-g -e stretch -f 25 -o 10 -u -s 1 -T -p 10 (Better so far)
 -g -e stretch -f 25 -o 10 -s 1
